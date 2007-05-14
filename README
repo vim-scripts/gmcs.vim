@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1895
+
+Mono C# compiler profile.  Tells vim to run gmcs when you :make your file.  Plus, when you run the :make command on your .cs file, this will parse the error messages and let you jump right to the problem points.   
